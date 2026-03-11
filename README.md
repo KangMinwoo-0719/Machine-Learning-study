@@ -14,12 +14,12 @@
 - Transformer
 
 ## Structure
-01_data_preprocessing 
-02_regression 
-03_classification 
-04_tree_models 
-05_unsupervised_learning 
-06_deep_learning 
-07_computer_vision 
-08_nlp 
-09_transformer 
+01_data_preprocessing  
+02_regression  
+03_classification  
+04_tree_models  
+05_unsupervised_learning  
+06_deep_learning  
+07_computer_vision  
+08_nlp  
+09_transformer  
